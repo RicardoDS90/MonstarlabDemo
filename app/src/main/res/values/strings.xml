@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MonstarlabDemo</string>
+    <string name="email_label">Email Address</string>
+    <string name="create_an_account_label">Create an Account</string>
+    <string name="password_label">Password</string>
+    <string name="already_have_an_account_label">Already have an account?</string>
+    <string name="later_button">Later</string>
+    <string name="continue_with_google_button">Continue with Google</string>
+    <string name="continue_with_apple_button">Continue with Apple</string>
+    <string name="continue_with_facebook_button">Continue with Facebook</string>
+    <string name="registration_error_mesage">An unexpected error occurred, please try again later!</string>
+</resources>
